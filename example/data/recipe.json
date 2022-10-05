@@ -1,0 +1,14 @@
+{
+  "name": "Água Quente [1]",
+  "author": "foo",
+  "rate": "10.0",
+  "description": "## Passo a passo\n\n  - colocar água numa panela\n  - esqentar",
+  "ingredients": [
+    {
+      "ingredient_id": 1,
+      "amount": 1000,
+      "unit": "ml"
+    }
+  ],
+  "tags": [1,2]
+}
